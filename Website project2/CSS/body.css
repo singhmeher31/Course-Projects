@@ -1,0 +1,17 @@
+body
+{
+	background-image:url("../Images/background.jpg");
+	
+}
+
+h1, h2, h3, p
+{
+	text-align:center;
+	color:white;
+	
+}
+
+p
+{
+	padding: 1em;
+}

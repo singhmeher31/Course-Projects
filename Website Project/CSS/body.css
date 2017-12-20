@@ -1,0 +1,25 @@
+body
+{
+	background-image:url("../Images/background.jpeg");
+}
+
+ h1, h2, p
+{
+	text-align:center;
+	color:white;
+	text-shadow:3px 3px 6px blue;
+}
+
+p
+{
+	padding:1em;
+}
+
+pre
+{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-weight: bold;
+	font-size: 17px;
+	Color: maroon;
+}
+
