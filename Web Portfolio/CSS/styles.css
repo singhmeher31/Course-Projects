@@ -1,0 +1,97 @@
+.jumbotron
+
+{
+	background-color: #007bb6;
+	background-repeat:no-repeat;
+	background-size: cover;
+	color:white;
+	font-size:15px;
+	margin: 0.1em;
+	padding: 0.4em;
+}
+
+div.profile
+{
+	padding: 0.4em;
+	margin: auto;
+	width: 95%;
+}
+
+div.container{
+	
+	width:1160px;
+	margin:auto;
+	align-content: center;
+
+}
+
+.companies
+{
+    border: 3px solid black;
+    width:38%;
+	margin: auto;
+     
+}
+
+#image, #image1, #image2, #image3, #image4, #image5, #image6
+{
+	display: none;
+}
+
+div.image{
+	width:69%;
+	margin: auto;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	border: 0.3em solid black;	
+
+}
+
+div.project{
+	margin: auto;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	width: 1100;
+}
+
+footer
+{
+    text-align: center;
+    color:white;
+    font-size: 15px;
+    background-color: black;
+    padding:1em;
+	margin: 0.5em;
+}
+
+.fa 
+{
+  padding: 10px;
+  font-size: 18px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 8px 3px;
+  border-radius: 50%;
+}
+
+.fa:hover 
+{
+    opacity: 0.9;
+	color: lightgray;
+}
+
+
+.fa-linkedin-square
+{
+  background: #007bb6;
+  color: white;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
